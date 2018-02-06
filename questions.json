@@ -1,0 +1,210 @@
+[
+    {
+        "id":1, 
+        "question":"1 - 2 = ?", 
+        "choices":[
+            {"choice":"0"}, 
+            {"choice":"-1"}, 
+            {"choice":"1"}, 
+            {"choice":"2"}
+        ],
+        "answer":3
+    },  
+    {
+        "id":2, 
+        "question":"Which chicken or their egg was born first?", 
+        "choices":[
+            {"choice":"Chicken."}, 
+            {"choice":"Egg."}
+        ], 
+        "answer": 2
+    },
+    {
+        "id":3, 
+        "question":"What is this?", 
+        "choices":[
+            {"choice":"Pen."}, 
+            {"choice":"Pencil."},
+            {"choice":"Penguin."},
+            {"choice":"Pentagon."}
+        ], 
+        "answer": 3
+    },
+    {
+        "id":4, 
+        "question":"Which one can fly?", 
+        "choices":[
+            {"choice":"Fly."}, 
+            {"choice":"Fry."},
+            {"choice":"Fire."},
+            {"choice":"File."}
+        ], 
+        "answer": 1
+    },
+    {
+        "id":5, 
+        "question":"What animal is this?", 
+        "choices":[
+            {"choice":"Cat."}, 
+            {"choice":"Dog."},
+            {"choice":"Bird."},
+            {"choice":"Tiger."}
+        ], 
+        "answer": 4
+    },
+    {
+        "id":6, 
+        "question":"Who is this?", 
+        "choices":[
+            {"choice":"\"THR GAME\"'s Owner."}, 
+            {"choice":"Facebook's CEO."},
+            {"choice":"Captain America."},
+            {"choice":"I know but i don't want to tell you."}
+        ], 
+        "answer": 1
+    },
+    {
+        "id":7, 
+        "question":"What is not this?", 
+        "choices":[
+            {"choice":"Cell phone."}, 
+            {"choice":"Mobile phone."},
+            {"choice":"Phone."},
+            {"choice":"Apple."}
+        ], 
+        "answer": 4
+    },
+    {
+        "id":8, 
+        "question":"Who is this?", 
+        "choices":[
+            {"choice":"Kim Jong Un."}, 
+            {"choice":"Prayuth Jan-O-Cha."},
+            {"choice":"Barrack Obama."},
+            {"choice":"None of above."}
+        ], 
+        "answer": 4
+    },
+    {
+        "id":9, 
+        "question":"Let the time runs out.", 
+        "choices":[
+            {"choice":"OK!"},
+            {"choice":"No."}            
+        ], 
+        "answer": 0
+    },
+    {
+        "id":10, 
+        "question":"Roses are red. Violets are ...?", 
+        "choices":[
+            {"choice":"color."}, 
+            {"choice":"blue."},
+            {"choice":"purple."},
+            {"choice":"cool"}
+        ], 
+        "answer": 2
+    },
+    {
+        "id":11, 
+        "question":"3+a = 13, 3+b = 13, 3+(a-b)=?", 
+        "choices":[
+            {"choice":"Syntax error."}, 
+            {"choice":"0"},
+            {"choice":"3"},
+            {"choice":"13"}
+        ], 
+        "answer": 3
+    },
+    {
+        "id":12, 
+        "question":"Select most expensive one.", 
+        "choices":[
+            {"choice":""}, 
+            {"choice":""},
+            {"choice":""},
+            {"choice":""}
+        ], 
+        "answer": 1
+    },
+    {
+        "id":13, 
+        "question":"Select odd one.", 
+        "choices":[
+            {"choice":"Google"}, 
+            {"choice":"Nintendo"},
+            {"choice":"Sony"},
+            {"choice":"Kasetsart"}
+        ], 
+        "answer": 4
+    },
+    {
+        "id":14, 
+        "question":"Spot female", 
+        "choices":[
+            {"choice":""}, 
+            {"choice":""},
+            {"choice":""},
+            {"choice":""}
+        ], 
+        "answer": 2
+    },
+    {
+        "id":15, 
+        "question":"Is this a tiger?", 
+        "choices":[
+            {"choice":"Absolutely"}, 
+            {"choice":"Nah"}
+        ], 
+        "answer": 1
+    },
+    {
+        "id":16, 
+        "question":"?", 
+        "choices":[
+            {"choice":"Juice."}, 
+            {"choice":"Cola."},
+            {"choice":"Beer."},
+            {"choice":"Oil."}
+        ], 
+        "answer": 2
+    },
+    {
+        "id":17, 
+        "question":"Select odd one.", 
+        "choices":[
+            {"choice":"Java"}, 
+            {"choice":"Python"}, 
+            {"choice":"English"}, 
+            {"choice":"C"}
+        ], 
+        "answer": 3
+    },
+    {
+        "id":18, 
+        "question":"Select what is not Microsoft's product.", 
+        "choices":[
+            {"choice":"Word"}, 
+            {"choice":"Doc"}, 
+            {"choice":"Excel"}, 
+            {"choice":"One note"}
+        ], 
+        "answer": 2
+    },
+    {
+        "id":19, 
+        "question":"Is this a car", 
+        "choices":[
+            {"choice":"Absolutely"}, 
+            {"choice":"Nah"}
+        ], 
+        "answer": 1
+    },
+    {
+        "id":20, 
+        "question":"Convert 10.00 PM to 24-hour time system?", 
+        "choices":[
+        ], 
+        "answer": "22.00"
+    }
+]
